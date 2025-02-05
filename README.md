@@ -52,5 +52,8 @@ pip install PyQt6 requests falcon waitress
 
 
 ## DEMO
+
+![Image](https://github.com/user-attachments/assets/1f9c718d-df5c-4361-a13d-2253a931d014)
+
 ![Image](https://github.com/user-attachments/assets/c6332432-11e8-45b6-a540-b180a886a04f)
 
