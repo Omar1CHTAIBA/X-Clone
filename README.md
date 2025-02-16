@@ -41,7 +41,7 @@ This is a chat application that allows users to register, log in, and send messa
 
 You can install the required dependencies using `pip`:
 
-```bash
+```python
 pip install PyQt6 requests falcon waitress
 ```
 
